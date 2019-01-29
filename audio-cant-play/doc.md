@@ -54,7 +54,7 @@ export const wxAutoPlay = audio => {
 
 ```
 
-**2019/1/29 发现：元素 display:none 的时候，音频不能播放**
+**2019/1/29 更新：元素 display:none 的时候，音频不能播放**
 
 ```js
 // 此时调用 `wxAutoPlay`不能正常播放
@@ -62,3 +62,5 @@ export const wxAutoPlay = audio => {
   <audio src="..."></audio>
 <div>
 ```
+
+解决方法：不设置元素`display: none`
