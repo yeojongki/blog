@@ -1,6 +1,27 @@
 # IOS 下音频不能播放
 
-已知：微信下触发 `WeixinJSBridgeReady` 事件可以播放`audio`
+**已知：微信下触发 `WeixinJSBridgeReady` 事件可以播放`audio`**
+
+```js
+/**
+ * 微信自动播放背景音乐
+ * @param {HTMLAudioElement} audio
+ */
+export const wxAutoPlay = audio => {
+  try {
+    audio.play();
+    document.addEventListener(
+      'WeixinJSBridgeReady',
+      function() {
+        audio.play();
+      },
+      { passive: false }
+    );
+  } catch (error) {
+    console.warn(error);
+  }
+};
+```
 
 **于是有个业务场景为摇一摇，然后触发事件的时候并不能正常的播放音频。**
 
@@ -31,4 +52,13 @@
     }
   }
 
+```
+
+**2019/1/29 发现：元素 display:none 的时候，音频不能播放**
+
+```js
+// 此时调用 `wxAutoPlay`不能正常播放
+<div class="wrap" style="display: none">
+  <audio src="..."></audio>
+<div>
 ```
