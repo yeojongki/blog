@@ -34,7 +34,7 @@ function change(obj) {
 change(outObj)
 console.log(outObj) // outObj
 ```
-上述代码中，在函数`change`中，参数对象`obj`被整体替换成另一个值，此时不会影响到原始值。因为这个时候直接修改了`obj`的指针的值，此时指向了一个新的内存地址，并不会影响到全局变量`outObj`的指向。
+上述代码中，在函数`change`中，参数对象`obj`被整体替换成另一个值，此时不会影响到原始值。因为这个时候直接修改了`obj`的指针的值（在堆中开辟了一个新的对象），然后把这个新的地址赋给`obj`，并不会影响到全局变量`outObj`的指向。
 
 ## 参考：
 - https://www.cnblogs.com/chenwenhao/p/7009606.html
