@@ -1,8 +1,9 @@
 # JavaScript
 
 - [如何正确地在 forEach 中使用 await](https://github.com/yeojongki/blog/issues/2)
-- [为什么['1', '2', '3'].map(parseInt)会返回[1, NaN, NaN]](https://github.com/yeojongki/blog/issues/6)
+- [为什么 ['1', '2', '3'].map(parseInt) 会返回 [1, NaN, NaN] ](https://github.com/yeojongki/blog/issues/6)
 - [JS 函数中参数传递的方式](https://github.com/yeojongki/blog/issues/5)
+- [reduce 实现 map、filter 和数组扁平化](https://github.com/yeojongki/blog/issues/8)
 
 # Canvas
 
