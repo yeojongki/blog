@@ -7,6 +7,10 @@
 - [setTimeout 实现 setInterval](https://github.com/yeojongki/blog/issues/9)
 - [将数字格式化成金额的形式并四舍五入保留 x 位小数](https://github.com/yeojongki/blog/issues/10)
 
+# 项目总结
+
+- [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
+
 # Canvas
 
 - [Canvas 绘制图片跨域](https://github.com/yeojongki/blog/issues/1)
@@ -16,6 +20,10 @@
 - [iOS 下 new Date() 时间转换存在格式上的问题](https://github.com/yeojongki/blog/issues/4)
 
 - [iOS 下音频不能播放](https://github.com/yeojongki/blog/issues/3)
+
+# Web 安全
+
+- [XSS](https://github.com/yeojongki/blog/issues/12)
 
 # Others
 
