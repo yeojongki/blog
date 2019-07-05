@@ -24,6 +24,7 @@
 # Web 安全
 
 - [XSS](https://github.com/yeojongki/blog/issues/12)
+- [CSRF](https://github.com/yeojongki/blog/issues/13)
 
 # Others
 
