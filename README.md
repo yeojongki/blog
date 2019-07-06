@@ -7,6 +7,10 @@
 - [setTimeout 实现 setInterval](https://github.com/yeojongki/blog/issues/9)
 - [将数字格式化成金额的形式并四舍五入保留 x 位小数](https://github.com/yeojongki/blog/issues/10)
 
+# CI/CD
+
+- [CI/CD 之 Jenkins](https://github.com/yeojongki/blog/issues/14)
+
 # 项目总结
 
 - [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
