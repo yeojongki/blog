@@ -34,3 +34,4 @@
 # Others
 
 - [微信浏览器中安卓手机采用媒体查询判断横竖屏时有误](https://github.com/yeojongki/blog/issues/7)
+- [Linux 及服务器相关](https://github.com/yeojongki/blog/issues/16)
