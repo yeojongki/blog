@@ -16,6 +16,9 @@
 
 - [重绘和回流（Repaint & Reflow）以及优化](https://github.com/yeojongki/blog/issues/14)
 
+# HTTP
+- [HTTP 缓存](https://github.com/yeojongki/blog/issues/18)
+
 # 项目总结
 
 - [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
