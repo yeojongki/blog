@@ -18,6 +18,7 @@
 
 # HTTP
 - [HTTP 缓存](https://github.com/yeojongki/blog/issues/18)
+- [GET 和 POST 的区别](https://github.com/yeojongki/blog/issues/20)
 
 # 项目总结
 
