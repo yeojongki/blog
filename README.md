@@ -27,6 +27,7 @@
 # 项目总结
 
 - [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
+- [馨房 DEV LOG 之部署](https://github.com/yeojongki/blog/issues/23)
 
 # Canvas
 
