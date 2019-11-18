@@ -16,6 +16,8 @@
 
 - [CI/CD 之 Jenkins](https://github.com/yeojongki/blog/issues/14)
 
+# 微信小程序
+- [富文本内容神秘消失事件 (Taro & wxParse)](https://github.com/yeojongki/blog/issues/24)
 # 性能优化
 
 - [重绘和回流（Repaint & Reflow）以及优化](https://github.com/yeojongki/blog/issues/17)
