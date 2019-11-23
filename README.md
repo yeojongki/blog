@@ -30,6 +30,7 @@
 
 - [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
 - [馨房 DEV LOG 之部署](https://github.com/yeojongki/blog/issues/23)
+- [馨房 DEV LOG 之 OSS 表单直传方案](https://github.com/yeojongki/blog/issues/25)
 
 # Canvas
 
@@ -38,7 +39,6 @@
 # iOS
 
 - [iOS 下 new Date() 时间转换存在格式上的问题](https://github.com/yeojongki/blog/issues/4)
-
 - [iOS 下音频不能播放](https://github.com/yeojongki/blog/issues/3)
 
 # Web 安全
