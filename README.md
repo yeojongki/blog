@@ -31,6 +31,7 @@
 - [宠物项目总结 (vue/egret)](https://github.com/yeojongki/blog/issues/11)
 - [馨房 DEV LOG 之部署](https://github.com/yeojongki/blog/issues/23)
 - [馨房 DEV LOG 之 OSS 表单直传方案](https://github.com/yeojongki/blog/issues/25)
+- [馨房 DEV LOG 之种子数据库 (初始化数据)](https://github.com/yeojongki/blog/issues/26)
 
 # Canvas
 
