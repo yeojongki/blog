@@ -36,7 +36,7 @@
 # Canvas
 - [Canvas 绘制图片跨域](https://github.com/yeojongki/blog/issues/1)
 
-# iOS
+# H5
 - [iOS 下 new Date() 时间转换存在格式上的问题](https://github.com/yeojongki/blog/issues/4)
 - [iOS 下音频不能播放](https://github.com/yeojongki/blog/issues/3)
 
