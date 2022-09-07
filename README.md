@@ -35,6 +35,7 @@
 - [馨房 DEV LOG 之部署](https://github.com/yeojongki/blog/issues/23)
 - [馨房 DEV LOG 之 OSS 表单直传方案](https://github.com/yeojongki/blog/issues/25)
 - [馨房 DEV LOG 之种子数据库 (初始化数据)](https://github.com/yeojongki/blog/issues/26)
+- [利用 Fiddler 测试并修复生产环境下的 BUG](https://github.com/yeojongki/blog/issues/34)
 
 # Canvas
 - [Canvas 绘制图片跨域](https://github.com/yeojongki/blog/issues/1)
