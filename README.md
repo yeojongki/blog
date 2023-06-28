@@ -54,3 +54,4 @@
 - [Linux 及服务器相关](https://github.com/yeojongki/blog/issues/16)
 - [Git 将 fork 后版本的内容与原仓库同步](https://github.com/yeojongki/blog/issues/22)
 - [Git 常用操作相关](https://github.com/yeojongki/blog/issues/32)
+- [设置修改 npm yarn 全局/缓存目录路径](https://github.com/yeojongki/blog/issues/35)
